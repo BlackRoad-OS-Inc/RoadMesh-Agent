@@ -1,3 +1,11 @@
+# RoadMesh-Agent
+
+> Road Fleet: RoadMesh-Agent — Event-driven multi-agent — A2A protocol. PROPRIETARY BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <p align="center">
   <img src="./docs/static/img/logo.png" alt="Solace Agent Mesh Logo" width="100"/>
 </p>
